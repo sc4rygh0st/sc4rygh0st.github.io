@@ -1,5 +1,4 @@
-# Hardware
-
-## Introduction
-
-Coming Soon...
+---
+part: Hardware
+title: Introduction
+---
