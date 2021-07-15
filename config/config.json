@@ -1,5 +1,5 @@
 {
-  "projectTitle": "CTF Book | The Cyber Grabs",
+  "projectTitle": "CTF Book",
   "projectDescription": "CTF Book is guide for beginners. It contain information related to CTFs. Having mindmaps, tools, payloads and a lot more things.",
   "projectURL": "",
   "locale": "en",
@@ -73,6 +73,14 @@
       "part": "Forensics",
       "chapters": [
         { "title": "Introduction", "path": "/forensics/intro" },
+        { "title": "Fenced Code Usage", "path": "/reference/fencedcode" },
+        { "title": "Using MDX", "path": "/reference/using-mdx" }
+      ]
+    },
+    {
+      "part": "Hardware",
+      "chapters": [
+        { "title": "Introduction", "path": "/hardware/intro" },
         { "title": "Fenced Code Usage", "path": "/reference/fencedcode" },
         { "title": "Using MDX", "path": "/reference/using-mdx" }
       ]
