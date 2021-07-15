@@ -1,0 +1,4 @@
+---
+part: Hardware
+title: Resources
+---
