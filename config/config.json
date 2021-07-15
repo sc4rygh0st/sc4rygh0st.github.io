@@ -59,7 +59,7 @@
   ],
   "toc": [
     {
-      "chapters": [{ "title": "Introduction", "path": "/intro" }]
+      "chapters": [{ "title": "Introduction", "path": "/intro/index" }]
     },
     {
       "part": "Cryptography",
