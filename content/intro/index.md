@@ -5,9 +5,7 @@ title: CTF Book
 
 ![CTF Book](https://raw.githubusercontent.com/sc4rygh0st/sc4rygh0st.github.io/master/public/ctfbook.png)
 
-**NextBook.** is quick and easy way to buid technical books or documentation that support modern standards and run blazingly fast. It works by compiling markdown and MDX to static pages. This way, first content render on user's device is near instant.
-
-NextBook makes writing technical docs stupid simple while keeping featureset minimal but open for further extension.
+**CTF Book** is guide for beginners. It contain information related to CTFs. Having mindmaps, tools, payloads and a lot more things.
 
 ## Getting Started
 
