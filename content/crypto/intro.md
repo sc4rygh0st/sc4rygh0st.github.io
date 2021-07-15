@@ -1,5 +1,4 @@
-# Cryptography
-
-## Introduction
-
-Coming Soon...
+---
+part: Cryptography
+title: Introduction
+---
