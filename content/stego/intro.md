@@ -1,5 +1,4 @@
-# Stegnography
-
-## Introduction
-
-Coming Soon...
+---
+part: Stego
+title: Introduction
+---
