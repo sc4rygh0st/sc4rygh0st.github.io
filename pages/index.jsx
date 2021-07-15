@@ -13,11 +13,11 @@ export default function HomePage() {
   return (
     <div className='mx-auto max-w-md'>
       <div className='text-center mt-32 text-3xl font-bold'>
-        Welcome To NextBook!
+        Welcome To CTF Book!
       </div>
       <div className='text-center'>
-        <p>You can use all Next.js features and create your custom app.</p>
-        <p>You can use this page as a homepage or to redirect to content.</p>
+        <p>A guide gor beginners to learn about Capture The Flag[CTF].</p>
+        <p>You can get amazing tools, mindmaps, payloads, scripts and alot more things.</p>
         <p>
           For now, redirecting you to the{' '}
           <Link href={docsIndex}>
