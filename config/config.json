@@ -65,24 +65,64 @@
       "part": "Cryptography",
       "chapters": [
         { "title": "Introduction", "path": "/crypto/intro" },
-        { "title": "Fenced Code Usage", "path": "/reference/fencedcode" },
-        { "title": "Using MDX", "path": "/reference/using-mdx" }
+        { "title": "Tools", "path": "/crypto/tools" },
+        { "title": "Resources", "path": "/crypto/resources" }
       ]
     },
     {
       "part": "Forensics",
       "chapters": [
         { "title": "Introduction", "path": "/forensics/intro" },
-        { "title": "Fenced Code Usage", "path": "/reference/fencedcode" },
-        { "title": "Using MDX", "path": "/reference/using-mdx" }
+        { "title": "Tools", "path": "/forensics/tools" },
+        { "title": "Resources", "path": "/forensics/resources" }
       ]
     },
     {
       "part": "Hardware",
       "chapters": [
         { "title": "Introduction", "path": "/hardware/intro" },
-        { "title": "Fenced Code Usage", "path": "/reference/fencedcode" },
-        { "title": "Using MDX", "path": "/reference/using-mdx" }
+        { "title": "Tools", "path": "/hardware/tools" },
+        { "title": "Resources", "path": "/hardware/resources" }
+      ]
+    },
+    {
+      "part": "OSINT",
+      "chapters": [
+        { "title": "Introduction", "path": "/osint/intro" },
+        { "title": "Tools", "path": "/osint/tools" },
+        { "title": "Resources", "path": "/osint/resources" }
+      ]
+    },
+    {
+      "part": "Pwn",
+      "chapters": [
+        { "title": "Introduction", "path": "/pwn/intro" },
+        { "title": "Tools", "path": "/pwn/tools" },
+        { "title": "Resources", "path": "/pwn/resources" }
+      ]
+    },
+    {
+      "part": "Reversing",
+      "chapters": [
+        { "title": "Introduction", "path": "/reversing/intro" },
+        { "title": "Tools", "path": "/reversing/tools" },
+        { "title": "Resources", "path": "/reversing/resources" }
+      ]
+    },
+    {
+      "part": "Stego",
+      "chapters": [
+        { "title": "Introduction", "path": "/stego/intro" },
+        { "title": "Tools", "path": "/stego/tools" },
+        { "title": "Resources", "path": "/stego/resources" }
+      ]
+    },
+    {
+      "part": "Web",
+      "chapters": [
+        { "title": "Introduction", "path": "/web/intro" },
+        { "title": "Tools", "path": "/web/tools" },
+        { "title": "Resources", "path": "/web/resources" }
       ]
     }
   ]
