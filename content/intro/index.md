@@ -1,6 +1,6 @@
 ---
 part: Introduction
-title: Welcome to NextBook!
+title: CTF Book
 ---
 
 ![A screenshot of NexBook page. raw](https://next-book.vercel.app/screenshot.png)
