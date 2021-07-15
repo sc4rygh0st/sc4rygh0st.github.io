@@ -25,16 +25,36 @@
       "path": "/intro/index"
     },
     {
-      "title": "NextBook Features",
-      "path": "/nextbook/nextbook-features"
+      "title": "Crypto",
+      "path": "/crypto/intro"
     },
     {
-      "title": "Reference",
-      "path": "/reference/markdown"
+      "title": "Forensics",
+      "path": "/forensics/intro"
     },
     {
-      "title": "Github",
-      "path": "https://github.com/amiroff/NextBook"
+      "title": "Hardware",
+      "path": "/hardware/intro"
+    },
+    {
+      "title": "OSINT",
+      "path": "/osint/intro"
+    },
+    {
+      "title": "Pwn",
+      "path": "/pwn/intro"
+    },
+    {
+      "title": "Reversing",
+      "path": "/reversing/intro"
+    },
+    {
+      "title": "Stego",
+      "path": "/stego/intro"
+    },
+    {
+      "title": "Web",
+      "path": "/web/intro"
     }
   ],
   "toc": [
@@ -42,34 +62,17 @@
       "chapters": [{ "title": "Introduction", "path": "/intro/index" }]
     },
     {
-      "part": "Using NextBook",
+      "part": "Cryptography",
       "chapters": [
-        {
-          "title": "NextBook Features",
-          "path": "/nextbook/nextbook-features"
-        },
-        {
-          "title": "Getting Started",
-          "path": "/nextbook/getting-started"
-        },
-        {
-          "title": "Settings",
-          "path": "/nextbook/settings"
-        },
-        {
-          "title": "Page Metadata",
-          "path": "/nextbook/page-metadata"
-        },
-        {
-          "title": "In Progress Features",
-          "path": "/nextbook/in-progress-features"
-        }
+        { "title": "Introduction", "path": "/crypto/intro" },
+        { "title": "Fenced Code Usage", "path": "/reference/fencedcode" },
+        { "title": "Using MDX", "path": "/reference/using-mdx" }
       ]
     },
     {
-      "part": "Reference",
+      "part": "Forensics",
       "chapters": [
-        { "title": "Markdown Usage", "path": "/reference/markdown" },
+        { "title": "Introduction", "path": "/forensics/intro" },
         { "title": "Fenced Code Usage", "path": "/reference/fencedcode" },
         { "title": "Using MDX", "path": "/reference/using-mdx" }
       ]
