@@ -3,7 +3,7 @@ part: Introduction
 title: CTF Book
 ---
 
-![CTF Book](https://github.com/sc4rygh0st/sc4rygh0st.github.io/blob/master/public/ctfbook.png)
+![CTF Book](https://raw.githubusercontent.com/sc4rygh0st/sc4rygh0st.github.io/master/public/ctfbook.png)
 
 **NextBook.** is quick and easy way to buid technical books or documentation that support modern standards and run blazingly fast. It works by compiling markdown and MDX to static pages. This way, first content render on user's device is near instant.
 
